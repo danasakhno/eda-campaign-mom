@@ -38,3 +38,9 @@ Export screenshots to `dashboard/screenshots/*.png`.
 
 ## License
 MIT
+
+## Insights (from my run)
+- **spring_sale (Jun vs May):** CTR ↓ **6.60%**, CPM ↓ **6.28%**, ROMI ↓ **1.24%** — impressions got cheaper, but value per $ spend softened; review creatives/landing and refine targeting segments.
+- **summer_promo (Jun only):** CTR ≈ **4.52%**, CPM ≈ **11.90**, ROMI ≈ **3.00x** — solid starting efficiency; test ways to lift CTR while keeping CPM under control.
+- **Tracking hygiene:** ensure `utm_campaign` is always present and standardized (lowercase, decoded spaces).
+- **Governance:** set a ROMI target and alerts when CTR/ROMI drop by more than *X%* MoM.
