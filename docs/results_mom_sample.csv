@@ -1,0 +1,4 @@
+ad_month,utm_campaign,total_spend,total_impressions,total_reach,total_clicks,total_leads,total_value,ctr,cpc,cpm,romi,ctr_change_pct,cpm_change_pct,romi_change_pct
+2025-05-01,spring_sale,320,30000,19000,1500,110,1400,0.0500,0.21,10.67,3.3750,,,
+2025-06-01,spring_sale,150,15000,10000,700,55,650,0.0467,0.21,10.00,3.3333,-6.60,-6.28,-1.24
+2025-06-01,summer_promo,250,21000,13000,950,80,1000,0.0452,0.26,11.90,3.0000,,,
